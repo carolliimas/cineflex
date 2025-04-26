@@ -1,0 +1,30 @@
+.sessions-container {
+  padding: 20px;
+}
+
+.day {
+  margin-bottom: 20px;
+}
+
+.showtimes button {
+  margin-right: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #e0e0e0;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.poster img {
+  height: 80px;
+  margin-right: 10px;
+}
